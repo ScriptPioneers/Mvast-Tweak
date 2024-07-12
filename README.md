@@ -1,9 +1,7 @@
 
-</br>
-<center>Mvast Tweak</center>
 
-Version 1.3
-Method Magisk/Kernelsu
+
+<center>Mvast Tweak</center>
 
 __Tweak the system with various battery - performance variants.__
 
