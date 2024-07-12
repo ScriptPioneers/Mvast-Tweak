@@ -1,9 +1,8 @@
 
-
-
-<center>Mvast Tweak</center>
+<img src="img.jpg" alt="preview" />
 
 __Tweak the system with various battery - performance variants.__
+
 
 ### Feature is simple
 - Battery
