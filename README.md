@@ -25,7 +25,7 @@ __Tweak the system with various battery - performance variants.__
 - Optimize Code Overall
 
 ### Requirement 
-- Android 9
+- Android 9+
 - Magisk 24+
 
 ### Noted 
